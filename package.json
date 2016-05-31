@@ -1,0 +1,18 @@
+{
+  "name": "myBlog",
+  "version": "0.0.0",
+  "description": "多人博客 d",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dongyangdaozi/myBlog.git"
+  },
+  "author": "dengsong",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/dongyangdaozi/myBlog/issues"
+  }
+}
